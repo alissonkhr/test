@@ -2,3 +2,7 @@ h2  {
     color: pink;
     /* the file successfully displayed the pink header */
 }
+
+p {
+    text-decoration: line-through;
+}
