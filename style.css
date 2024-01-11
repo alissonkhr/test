@@ -21,7 +21,7 @@ ul {
  list-style: none;  
 }
 
-button {
+button.clickMeButton {
   background-color: lightblue;
   position: absolute;
   top:50%;
