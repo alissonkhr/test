@@ -32,6 +32,16 @@ button.clickMeButton {
   min-width: 120px;
 }
 
+button.submitButton {
+  background-color: lightblue;
+  top:50%;
+  color: #fff; 
+  border-radius:10px; 
+  padding:15px;
+  min-height:30px; 
+  min-width: 120px;
+}
+
 textarea {
   min-height: 200px;
   min-width: 200px;
