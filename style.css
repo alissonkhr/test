@@ -46,3 +46,8 @@ textarea {
   min-height: 200px;
   min-width: 200px;
 }
+
+div.textbox {
+  background-color: grey;
+  border-radius: 10px;
+}
