@@ -11,6 +11,7 @@ body {
   display: flex;
   text-align: center;
   justify-content: space-evenly;
+  background: grey
 }
 
 p.link {
